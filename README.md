@@ -16,4 +16,5 @@ simple project that uses Flask to display the  gender, and age of a user based o
 - Genderize API: Provides gender based on the name.
 - Agify API: Estimates age based on the name.
 
-![Uploading img.png…]()
+![img](https://github.com/bardack134/Small-practice-with-Flask/assets/142977989/8dab8709-d762-4814-a6b8-474a306b904c)
+
